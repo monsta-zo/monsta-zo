@@ -7,5 +7,5 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monsta-zo&exclude_repo=monsta-zo.github.io,Piro18_Arsha_05&layout=compact&theme=default" width="39%" />
 </a>
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lezo9911)
+<img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lezo9911"/>
 </div>
