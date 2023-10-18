@@ -1,13 +1,13 @@
 # 조준서(Monster)
-
-
-### SNS
   <div>
   <a href="https://monsta-zo.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Blog-853fb3?logo=GitHub&style=for-the-badge"/>
   </a>
   <a href="https://www.instagram.com/monsta__zo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ffdfe6?logo=Instagram&style=for-the-badge"/>
   </a>
 </div>
+
+### 🚀 Activity
+- 연합동아리 [피로그래밍](https://pirogramming.com/) 18기 (2022.12 ~ 2023.02)
 <br/>
   <br/>
   <br/>
