@@ -4,7 +4,7 @@
   <div>
   <a href="https://monsta-zo.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Blog-853fb3?logo=GitHub&style=for-the-badge"/>
   </a>
-  <a href="[https://monsta-zo.github.io/](https://www.instagram.com/monsta__zo/)" target="_blank"><img src=" https://img.shields.io/badge/-Instagram-ffdfe6?logo=Instagram&style=for-the-badge"/>
+  <a href="https://www.instagram.com/monsta__zo/" target="_blank"><img src=" https://img.shields.io/badge/-Instagram-ffdfe6?logo=Instagram&style=for-the-badge"/>
   </a> 
 </div>
 <br/>
