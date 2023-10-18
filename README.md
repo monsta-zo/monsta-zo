@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=조준서(Monster)&desc=FE%20Developer&fontSize=50&animation=fadeIn&fontColor=9c54c1&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=조준서(Monster)&desc=FE%20Developer&fontSize=50&animation=fadeIn&fontColor=9c54c1&fontAlignY=30)
 
 <div align="center">
   <span>📞SNS</span>
