@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=monsta-zo&theme=default&show_icons=true" width="43%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monsta-zo&exclude_repo=monsta-zo.github.io,Piro18_Arsha_05&layout=compact&theme=default" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monsta-zo&exclude_repo=monsta-zo.github.io,Piro18_Arsha_05&layout=compact&theme=default" width="38.5%" />
 </a>
 
 
