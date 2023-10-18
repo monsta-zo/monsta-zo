@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=조준서(Monster)&desc=FE%20Developer&fontSize=50&animation=fadeIn&fontColor=9c54c1&fontAlignY=30)
 
-<div align="center">
-  <span>📞SNS</span>
   <div>
   <a href="https://monsta-zo.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Blog-853fb3?logo=GitHub&style=for-the-badge"/>
   </a>
@@ -18,4 +15,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monsta-zo&exclude_repo=monsta-zo.github.io,Piro18_Arsha_05&layout=compact&theme=default" width="39%" />
 </a>
 <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lezo9911"/>
-</div>
+
