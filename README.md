@@ -12,7 +12,7 @@
 ### 🚀 Activity
 - 연합동아리 [피로그래밍](https://pirogramming.com/) 18기 (2022.12 ~ 2023.02)
 - 연합동아리 [피로그래밍](https://pirogramming.com/) 19기 교육팀 운영진 (2023.06 ~ 2023.08)
-- [카카오 테크 캠퍼스](https://www.kakaotechcampus.com/) 1기 Frontend 파트 (2023.04 ~ NOW)
+- [카카오 테크 캠퍼스](https://www.kakaotechcampus.com/) 1기 Frontend 파트 (2023.04 ~ 2023.11)
   
   <br/>
 <a href="s">
